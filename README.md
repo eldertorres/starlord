@@ -24,7 +24,7 @@ Welcome to **Starlord**, a Discord music bot project designed for learning and e
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/starlord.git
+git clone https://github.com/eldertorres/starlord.git
 cd starlord
 ```
 
